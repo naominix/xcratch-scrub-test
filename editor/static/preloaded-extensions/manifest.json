@@ -1,0 +1,14 @@
+[
+  {
+    "url": "https://microbit-more.github.io/dist/microbitMore.mjs",
+    "path": "./static/preloaded-extensions/microbitMore.mjs"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/naominix/xcx-irobot-root/4ffe8eb63ae3e148d7315d2f5378f6b29cef6616/dist/irobotRoot.mjs",
+    "path": "./static/preloaded-extensions/irobotRoot.mjs"
+  },
+  {
+    "url": "https://tfabworks.github.io/xcx-g2s/dist/g2s.mjs",
+    "path": "./static/preloaded-extensions/g2s.mjs"
+  }
+]
